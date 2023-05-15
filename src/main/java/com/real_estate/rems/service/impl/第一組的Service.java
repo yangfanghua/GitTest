@@ -8,6 +8,7 @@ public class 第一組的Service {
         for (int i : intArr) {
             System.out.println(i);
         }
+        System.out.println();
     }
 
     public void 組員二的方法(){
